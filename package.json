@@ -1,0 +1,10 @@
+{
+  "name": "amma-ai-chat",
+  "version": "1.0.0",
+  "description": "Simple ChatGPT-like web app for Chrome",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
