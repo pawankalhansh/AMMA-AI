@@ -1,9 +1,3 @@
-# AMMA AI (ChatGPT-like Web App for Chrome)
-
-This project is a lightweight ChatGPT-style AI chat app you can run locally and open in Chrome.
-
-## Features
-
 - Clean chat interface in the browser
 - Node.js backend API route (`/api/chat`)
 - Uses OpenAI-compatible chat completions endpoint
