@@ -5,6 +5,6 @@
 * 💬 **Natural Conversation:** Engaging in multi-turn dialogue with context retention.
 * 🧠 **Knowledge Retrieval:** Answering questions across a broad range of topics.
 * ✍️ **Creative Assistance:** Drafting emails, writing code, and generating creative content.
-* 🇮🇳 **Localized Focus:** Tailored to understand cultural nuances and regional languages [Optional: keep this if true].
+* 🇮🇳 **Localized Focus:** Tailored to understand cultural nuances and regional languages.
 
 **Vision:** To create an accessible, transparent, and highly capable AI assistant for everyone.
